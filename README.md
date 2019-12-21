@@ -3,7 +3,7 @@
 
 This is quite a ritual or a beginner project to start with Convolutional Neural Networks(CNNs).
 
-I have used <i>MNIST</i> dataset which is the de facto 'Hello World' dataset of computer vision.
+I have used <i>MNIST</i> dataset which is the de facto <i>Hello World</i> dataset of computer vision.
 
 I have applied CNN using Keras library and RNN in Tensorflow 1.0 and provided a short note on CNNs and RNNs(Recurrent Neural Networks).
 
